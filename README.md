@@ -21,4 +21,4 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 
 [STAT401 4 Credit](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat401-2)
 
-STAT401 Fall 2023 (4 credit) (5 students)
+STAT401 Fall 2023 (4 credit) (5 students)**Undergraduate Class & Lab
