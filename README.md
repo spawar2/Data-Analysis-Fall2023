@@ -18,7 +18,7 @@ Chi Square: https://youtu.be/dgehxC9tJVc
 [Descriptive Statistics:](https://youtu.be/09SCdQPVShU)
 
 [Github:](https://github.com/spawar2/STAT302)
-
+[Semester class review:](https://youtu.be/Pju8ecWWRAw)
 [STAT401 4 Credit](https://pawar1550.wixsite.com/claflin-courses/copy-of-stat401-2)
 
 STAT401 Fall 2023 (4 credit), (5 students)**Undergraduate Class & Lab. https://campuspress.yale.edu/shrikantpawar/files/2024/05/Student-Evaluations-2021-2024-3df60a3eaf357f31.pdf
