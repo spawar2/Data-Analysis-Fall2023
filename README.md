@@ -4,7 +4,9 @@
 Probability & Statistics I & II, Biostatistics, Data Analysis (topics including descriptive & inferential statistics, probability distributions, variable types, distribution properties, discrete & continuous types, R functions, ANOVA, data wrangling, Post Hoc Test, T-test, correlation, chi-Square, regression, etc.). Regression (linear, multiple, logistic), Probability distributions (Discrete, Binomial, Poisson, Continuous Uniform, Chi-squared, Student-t, Fisher,)  Exponential, Normal, Chi-Square), Analysis of Variance (ANOVA). Data wrangling and handling.
 [Data analysis:](https://youtu.be/WIvehDeVRak).
 [Data analysis:](https://youtu.be/dhIjTt26YKQ).
+https://www.claflin.edu/docs/default-source/academic-affairs-student-services/2018-2020-undergraduate-catalog_final_aug-21-2019_web.pdf?sfvrsn=15bf3f0e_6
 
+https://www.claflin.edu/docs/default-source/academics-docs/graduate-catalog-2024-26.pdf?sfvrsn=88de090e_0
 ![download](https://github.com/user-attachments/assets/89d1232b-feb8-492a-a105-7a4bcb1b4a3f)
 
 [R: ggpubr, tidyverse, datarium, dplyr].
